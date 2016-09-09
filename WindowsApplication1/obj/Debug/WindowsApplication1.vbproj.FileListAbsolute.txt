@@ -1,0 +1,2 @@
+C:\Users\carro\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\carro\ownCloud\deploy\DotNet\DirectoryDefender\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config

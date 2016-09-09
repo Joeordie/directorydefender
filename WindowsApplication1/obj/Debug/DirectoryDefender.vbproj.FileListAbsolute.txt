@@ -1,0 +1,11 @@
+C:\Users\carro\ownCloud\deploy\DotNet\DirectoryDefender\WindowsApplication1\obj\Debug\DirectoryDefender.vbprojResolveAssemblyReference.cache
+C:\Users\carro\ownCloud\deploy\DotNet\DirectoryDefender\WindowsApplication1\obj\Debug\DirectoryDefender.vbproj.GenerateResource.Cache
+C:\Users\carro\ownCloud\deploy\DotNet\DirectoryDefender\WindowsApplication1\bin\Debug\DirectoryDefender.exe.config
+C:\Users\carro\ownCloud\deploy\DotNet\DirectoryDefender\WindowsApplication1\bin\Debug\DirectoryDefender.exe
+C:\Users\carro\ownCloud\deploy\DotNet\DirectoryDefender\WindowsApplication1\bin\Debug\DirectoryDefender.pdb
+C:\Users\carro\ownCloud\deploy\DotNet\DirectoryDefender\WindowsApplication1\bin\Debug\DirectoryDefender.xml
+C:\Users\carro\ownCloud\deploy\DotNet\DirectoryDefender\WindowsApplication1\obj\Debug\DirectoryDefender.frmConfig.resources
+C:\Users\carro\ownCloud\deploy\DotNet\DirectoryDefender\WindowsApplication1\obj\Debug\DirectoryDefender.Resources.resources
+C:\Users\carro\ownCloud\deploy\DotNet\DirectoryDefender\WindowsApplication1\obj\Debug\DirectoryDefender.exe
+C:\Users\carro\ownCloud\deploy\DotNet\DirectoryDefender\WindowsApplication1\obj\Debug\DirectoryDefender.xml
+C:\Users\carro\ownCloud\deploy\DotNet\DirectoryDefender\WindowsApplication1\obj\Debug\DirectoryDefender.pdb
